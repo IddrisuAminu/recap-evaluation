@@ -1,0 +1,11 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(red, green, blue);
+}
+.list{
+    
+}
